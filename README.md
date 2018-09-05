@@ -1,4 +1,5 @@
-#Disclamer
+# Disclamer
+
 This project was done while studing Heston Model for personal interest. Therefore the code leaves room to many improvements especially 
 on the side of optimization and speed. The main aim was didatic, hence it may lack of elegance and precision, but I hope it maybe usefull
 to anyone and I encourage the few interested to improve it.
